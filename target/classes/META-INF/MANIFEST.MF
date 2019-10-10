@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: a1
+Built-By: A1
 Build-Jdk: 11.0.1
 Implementation-Title: TechTalentTwitter
 Implementation-Version: 0.0.1-SNAPSHOT
